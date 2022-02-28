@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The falacie of the great water-drinker discovered. Fully representing what are the ingredients that provoke him to so wonderfull a vomit, and by what art one glass seemeth to be of one colour, and another of another; and what he doth when he taketh the rose-water and the angelica-water. / By Mr Thomas Peedle and Mr Thomas Cozbie, who brought him over into England from Tours in France: and after Wednesday next being the 26 of this present June, will be constantly readie every after-noon, if desired, in their own persons to make an experimental proof of what is here declared. Published for the satisfaction of many of the nobilitie and ladies of this nation, and many eminent gentlemen who have offered great sums of money to have the misterie discovered. As also to undeceive many thousands, who having seen the manner of it, have been amazed at the wonder but could not discover the secret. Licenced and entered into the register-book of the Company of Stationers, according to order.</title>
+            <author>Peedle, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90357</idno>
+            <idno type="STC">Wing P1052</idno>
+            <idno type="STC">Thomason E603_18</idno>
+            <idno type="STC">ESTC R25173</idno>
+            <idno type="EEBO-CITATION">99872085</idno>
+            <idno type="PROQUEST">99872085</idno>
+            <idno type="VID">165659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The falacie of the great water-drinker discovered. Fully representing what are the ingredients that provoke him to so wonderfull a vomit, and by what art one glass seemeth to be of one colour, and another of another; and what he doth when he taketh the rose-water and the angelica-water. / By Mr Thomas Peedle and Mr Thomas Cozbie, who brought him over into England from Tours in France: and after Wednesday next being the 26 of this present June, will be constantly readie every after-noon, if desired, in their own persons to make an experimental proof of what is here declared. Published for the satisfaction of many of the nobilitie and ladies of this nation, and many eminent gentlemen who have offered great sums of money to have the misterie discovered. As also to undeceive many thousands, who having seen the manner of it, have been amazed at the wonder but could not discover the secret. Licenced and entered into the register-book of the Company of Stationers, according to order.</title>
+                  <author>Peedle, Thomas.</author>
+                  <author>Cozbie, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop for T. Dunster, and are to be sold at the Red Lion in Grubstreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Domini 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomas Peedle is a pseudonym.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marchand, Florent.</term>
+               <term>Impostors and imposture --  England --  Early works to 1800.</term>
+               <term>Impostors and imposture --  France --  Early works to 1800.</term>
+               <term>Vomiting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:165659:1" rendition="simple:additions"/>
+THE FALACIE Of the great WATER-DRINKER DISCOVERED.</p>
+            <p>Fully repreſenting what are the Ingredients that pro<g ref="char:EOLhyphen"/>voke him to ſo wonderfull a Vomit, and by what Art one Glaſs ſeemeth to be of one colour, and another of another; and what he doth when he taketh the <hi>Roſe-water</hi> and the <hi>Angelica-water.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Mr <hi>Thomas Peedle</hi> and Mr <hi>Thomas Cozbie,</hi> who brought him over into <hi>England</hi> from <hi>Tours</hi> in <hi>France:</hi> and after Wedneſday next being the 26 of this preſent <hi>June,</hi> will be conſtantly readie every After-noon, if deſired, in their own perſons to make an experimental proof of what is here declared.</p>
+            <p>Publiſhed for the ſatisfaction of many of the Nobilitie and Ladies of this Nation, and many eminent Gentlemen who have offered great ſums of money to have the miſterie diſcovered. As alſo to unde<g ref="char:EOLhyphen"/>ceive many thouſands, who having ſeen the manner of it, have been amazed at the wonder but could not diſcover the ſecret.</p>
+            <p>Licenced and entered into the Regiſter-book of the Company of Stationers, according to Order.</p>
+            <p>Printed by <hi>B. Alſop</hi> for <hi>T. Dunſter,</hi> and are to be ſold at the <hi>Red Lion</hi> in <hi>Grubſtreet. Anno Domini</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:165659:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of Floram Marchand</figDesc>
+                  <head>Floram Marchand, Le grand Boyeur de <hi>Tours.</hi>
+                  </head>
+                  <lg>
+                     <l>See here the pourtract of this man of <hi>Tours,</hi>
+                     </l>
+                     <l>Who from him wine in ſuch abundance powres,</l>
+                     <l>His Art and Reaſons here are publiſhed</l>
+                     <l>What makes this Glaſs look white and that ſo red;</l>
+                     <l>And all the progreſs of the work's diſplaid,</l>
+                     <l>The whole Deceit is here now open laid.</l>
+                  </lg>
+               </figure>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:165659:2"/>
+            <head>Floram Marchand Le grand Boyeur de Tours, Or <hi>The Fallacie of the great Water-Drinker diſcovered.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He miſtery of this ſo famous Water-Drinker who at his pleaſure (as the Spectatours have believed) can turn water into Wine, and at his vomit render not onely the tincture but the ſtrength and ſmell of ſeverall wines, and ſe<g ref="char:EOLhyphen"/>verall waters is the ſubject of this diſcourſe: which being to ſatisfie the people (ſo often in this Nation and in forreign Kingdomes aſtoniſhed at the wonder, I ſhall here ſtudy to declare unto you in as plain words as I can, and to contrive it in as few.</p>
+            <p>Howſoever I ſhall be moſt carefull to repreſent it to you in that manner, that the curtain being drawn open and the vizzard taken off, you ſhall ſee the whole pro<g ref="char:EOLhyphen"/>greſſe and the face of the Impoſture.</p>
+            <p>But before I come to cloſe upon it, it will be no ways impertinent, to relate that the Maſter of this Maſtery <hi>Bloiſe</hi> an Italian by name, from whom our impo<g ref="char:EOLhyphen"/>ſture now in <hi>England</hi> received his Rudiments, and full Knowledge, was not long ſince queſtioned in <hi>Francis</hi> by the Cardinall <hi>Mazarine,</hi> who threatened him with all the miſeries that a tedious impriſonment could bring upon him, which he would ſee moſt ſeverel inflicted, unleſſe he would diſcover to him by which
+<pb n="4" facs="tcp:165659:3"/>
+Art he did it, <hi>Bloiſe</hi> ſtartled at the ſentence, and fearing the event made a provident diſcovery, for it was on theſe terms, that he would communicate it to no man elſe, by which means having made an experimentall proof of what ſo powerfully was expected, he not onely gained his liberty but the connivance of the Cardinal.</p>
+            <p>From this <hi>Bloiſe,</hi> the impoſture in <hi>England, Floram Marchand</hi> by name, received al his inſtructions, and find<g ref="char:EOLhyphen"/>ing that <hi>Bloiſe</hi> was the more famous in the Artifice, by the advice of two Engliſh friends Mr. <hi>Tho. Peedle,</hi> and Mr. <hi>Tho. Cozbie,</hi> who brought him over, he abandoned <hi>Tours</hi> to come into <hi>England,</hi> where his moiſt cheat be<g ref="char:EOLhyphen"/>fore was never heard off, and where the cauſe of the wonder being utterly unknown, he promiſed himſelf to advance the wonder into all Advantages.</p>
+            <p>I ſhall trouble you with no further circumſtance, the manner of the impoſture is this,</p>
+            <p>To prepare his body for ſo hardy a task, before he makes his appearance on the Stage, doth take a Pill about the quantity of a hazle nut, confected with the Gall of an Heifer &amp; wheat flower baked. After which he drink<g ref="char:EOLhyphen"/>eth privately in his Chamber, four or five pints of luke-warm-water, to take all the foulneſſe, and ſlime from his ſtomack, &amp; to avoid that loath ſome ſpectacle which otherwiſe would make thick the water, and offend the eye of the obſerver.</p>
+            <p>In the firſt place he preſents you with a payl of luke-warm water, and ſixteen glaſſes in a Basket, but you are to underſtand that every morning he boileth 2 ounces of Brazile thin ſliced in 3 pints of running water, ſo long till the whole ſtrength and colour of the Brazile is exhauſt<g ref="char:EOLhyphen"/>ed: of this he drinketh half a pint in his private chamber before he commeth on the Stage: you are alſo to un<g ref="char:EOLhyphen"/>derſtand
+<pb n="3" facs="tcp:165659:3"/>
+that he neither eateth nor drinketh in the mor<g ref="char:EOLhyphen"/>ning on thoſe days wherein he commeth on the Stage, the cleanſing Pill and water onely excepted; but in the evening will make a very good ſupper, and eat as much as two or three other men who have not their ſtomacks ſo throughly purged.</p>
+            <p>Before he preſents himſelf to the Spectators, he waſh<g ref="char:EOLhyphen"/>eth all his glaſſes in the beſt white-wine vinegar he can procure. Comming on the Stage, he always waſheth his firſt glaſſe, and rinſeth it two or three times, to take a<g ref="char:EOLhyphen"/>way the ſtrength of the Vinegar, that it might in no wiſe diſcolour the complexion of what is repreſented to be Wine.</p>
+            <p>In his firſt entrance, he drinketh four and twenty glaſſes of luke-warm-water; the firſt vomit he maketh the wa<g ref="char:EOLhyphen"/>ter ſeemeth to be a full deep Claret: you are to obſerve that his Gall-pill in the morning, and ſo many glaſſes of luke-warm-water afterwards, will force him into a ſud<g ref="char:EOLhyphen"/>den capacity to vomit, which vomit upon ſo much warm water, is for the moſt part ſo violent on him, that he cannot forbear if he would.</p>
+            <p>You are again to underſtand, that all that comes from him is red of it ſelf, or hath a tincture of it from the firſt Brazil water; but by degrees, the more water he drinketh, as on every new trial he drinketh ſo many glaſſes of water as his Stomack will contain, the water that comes from him will grow paler and paler: having then, as I ſaid before, made his eſſay on Claret, and proved it to be of the ſame complexion, he drinketh again four or five glaſſes of the luke-warm-water, and bringeth forth Claret and Beer at once into two ſeverall glaſſes; now you are to obſerve, that the glaſs which appeareth to be Claret, is rinſed as before, but the Beer glaſs not rinſed at all, but is ſtill moiſt
+<pb n="6" facs="tcp:165659:4"/>
+water from him in three pipes, the diſtance of four or five yeards. This is all cleer water, which he doth with ſo much port, and ſuch a flowing grace as if it were his Maſter-piece.</p>
+            <p>He hath been invited by divers Gent. and perſonages of Honour to make the like evacuation in milk, as he made a ſemblance in wine, you are to underſtand that then he goeth into another room, and drinketh two or three pints of milk, on his return (which is always ſpeedy) he goeth firſt to his pail and afterwards to his Vomite. The milk which comes from him looks curdled, and ſhowes like curdled milk and drink. If there be no milk ready to be had he will excuſe himſelf to his Spectators; and make a large promiſe of what he will perform the next day. At which time being ſure to have milk enough to ſerve his turn he wil perform his promiſe.</p>
+            <p>His milk he always drinketh in a withdrawing room, that it may not be diſcovered, for that will be too appa<g ref="char:EOLhyphen"/>rent, nor hath he any other ſhift to evade the diſcerning eye of the obſervers.</p>
+            <p>It is alſo to be conſidered, that he never comes on the Stage as he doth ſometimes three or four times in a day, but he firſt drinks the Brazile water, without which he can do nothing at all, for all that comes from him hath a tincture of the red, and it onely varieth and altereth according to the abundance of water which he taketh, and the ſtrength of the White-wine-vinegar, in which all the glaſſes are waſhed.</p>
+            <p>To prove the truth of what here is delivered unto you, you ſhal have the two Gent. that brought him over with them from Tours <hi>viz. Tho. Peedle,</hi> and <hi>Tho. Cozby,</hi> by name, conſtantly reſident at their lodging at the widdow <hi>Gilmans</hi> houſe in Golden-lane, the next door to the ſign of the Peel, where every day after wedneſday being the 26 of this inſtant <hi>June,</hi> from 12 of the clock until 6 in the evening, they will be preſent to juſtifie what is here diſcovered; and with glaſſes, and other accommodations in this buſineſs to ſhew actually in their own per<g ref="char:EOLhyphen"/>ſons, what is here declared, and to convince any that ſhall contradict it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
